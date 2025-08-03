@@ -1,0 +1,4 @@
+package fundamentos.exercicios;
+
+public class Exercicio6 {
+}
